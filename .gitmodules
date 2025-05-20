@@ -1,0 +1,3 @@
+[submodule "it-tools"]
+	path = it-tools
+	url = https://github.com/CorentinTh/it-tools.git
